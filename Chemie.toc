@@ -1,9 +1,11 @@
-\contentsline {paragraph}{LIMITIERENDE REAKTANTEN - ST\"OCHIOMETRIE}{2}
-\contentsline {paragraph}{THERMOCHEMIE}{5}
-\contentsline {paragraph}{PERIODISCHE EIGENSCHAFTEN \textendash {} CHEMISCHE BINDUNG - BINDUNGSTTHEORIE}{7}
-\contentsline {paragraph}{GASE \& FL\"USSIGKEITEN \& L\"OSUNGEN}{10}
-\contentsline {paragraph}{CHEMISCHE KINETIK}{12}
-\contentsline {paragraph}{CHEMISCHES GLEICHGEWICHT}{13}
-\contentsline {paragraph}{S\"AURE-BASE GLEICHGEWICHTE}{14}
-\contentsline {paragraph}{STOFFCHEMIE}{17}
-\contentsline {paragraph}{ALLGEMEINE FRAGEN}{18}
+\select@language {ngerman}
+\contentsline {chapter}{\numberline {1}LIMITIERENDE REAKTANTEN - ST\"OCHIOMETRIE}{2}{chapter.1}
+\contentsline {chapter}{\numberline {2}THERMOCHEMIE}{4}{chapter.2}
+\contentsline {chapter}{\numberline {3}PERIODISCHE EIGENSCHAFTEN \textendash {} CHEMISCHE BINDUNG - BINDUNGSTTHEORIE}{6}{chapter.3}
+\contentsline {chapter}{\numberline {4}GASE \& FL\"USSIGKEITEN \& L\"OSUNGEN}{9}{chapter.4}
+\contentsline {chapter}{\numberline {5}CHEMISCHE KINETIK}{11}{chapter.5}
+\contentsline {chapter}{\numberline {6}CHEMISCHES GLEICHGEWICHT}{12}{chapter.6}
+\contentsline {chapter}{\numberline {7}S\"AURE-BASE GLEICHGEWICHTE}{13}{chapter.7}
+\contentsline {chapter}{\numberline {8}THERMODYNAMIK II \& ELEKTROCHEMIE}{15}{chapter.8}
+\contentsline {chapter}{\numberline {9}STOFFCHEMIE}{16}{chapter.9}
+\contentsline {chapter}{\numberline {10}ALLGEMEINE FRAGEN}{i}{chapter.10}
